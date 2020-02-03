@@ -1,0 +1,11 @@
+C:\Users\WASHINGTON\Desktop\ExercicioException\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.1\ExercicioException.exe
+C:\Users\WASHINGTON\Desktop\ExercicioException\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.1\ExercicioException.deps.json
+C:\Users\WASHINGTON\Desktop\ExercicioException\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.1\ExercicioException.runtimeconfig.json
+C:\Users\WASHINGTON\Desktop\ExercicioException\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.1\ExercicioException.runtimeconfig.dev.json
+C:\Users\WASHINGTON\Desktop\ExercicioException\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.1\ExercicioException.dll
+C:\Users\WASHINGTON\Desktop\ExercicioException\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.1\ExercicioException.pdb
+C:\Users\WASHINGTON\Desktop\ExercicioException\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.1\ExercicioException.csprojAssemblyReference.cache
+C:\Users\WASHINGTON\Desktop\ExercicioException\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.1\ExercicioException.AssemblyInfoInputs.cache
+C:\Users\WASHINGTON\Desktop\ExercicioException\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.1\ExercicioException.AssemblyInfo.cs
+C:\Users\WASHINGTON\Desktop\ExercicioException\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.1\ExercicioException.dll
+C:\Users\WASHINGTON\Desktop\ExercicioException\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.1\ExercicioException.pdb
